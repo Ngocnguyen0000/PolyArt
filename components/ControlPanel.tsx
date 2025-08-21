@@ -47,7 +47,7 @@ export const ControlPanel: React.FC<ControlPanelProps> = ({
             <WandIcon className="w-8 h-8 text-indigo-400"/>
             <h1 className="text-2xl font-bold text-white">Trình tạo Low Poly</h1>
         </div>
-        <a href="https://github.com/Ngocnguyen0000/PolyArt1" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">
+        <a href="https://github.com/Ngocnguyen0000/PolyArt" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">
           <GithubIcon className="w-6 h-6" />
         </a>
       </header>
