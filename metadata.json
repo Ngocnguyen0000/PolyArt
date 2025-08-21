@@ -1,0 +1,5 @@
+{
+  "name": "Trình tạo nghệ thuật Low Poly",
+  "description": "Một công cụ tương tác để biến đổi bất kỳ hình ảnh nào thành tác phẩm nghệ thuật theo phong cách low-polygon. Tải lên hình ảnh, điều chỉnh các cài đặt như mật độ điểm và không gian màu, và tạo ra một đồ họa vector tam giác hóa. Xuất kết quả dưới dạng tệp dữ liệu JSON chi tiết, tệp SVG hoặc PNG, hoàn hảo cho tài sản game hoặc các dự án sáng tạo.",
+  "requestFramePermissions": []
+}
